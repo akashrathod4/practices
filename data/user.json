@@ -1,0 +1,28 @@
+{
+    "cruddata": [
+      {
+        "id": "4",
+        "name": "sunil",
+        "email": "rathod@gmail.com",
+        "phone": "8605050505"
+      },
+      {
+        "id": "",
+        "name": "aaaa",
+        "email": "akash3399rathod@gmail.com",
+        "phone": "02398523948"
+      },
+      {
+        "id": "",
+        "name": "aaaa",
+        "email": "sds@gmail.com",
+        "phone": "02398523948"
+      },
+      {
+        "id": "",
+        "name": "aaaa",
+        "email": "sds@gmail.com",
+        "phone": "02398523948"
+      }
+    ]
+  }
